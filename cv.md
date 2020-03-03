@@ -110,7 +110,7 @@ int main() {
     return 0;
 }
 ```
-> For the full follow {the link](https://www.codepile.net/pile/j4GrQOoP)
+> For the full follow [the link](https://www.codepile.net/pile/j4GrQOoP)
 
 ## EDUCATION
 * 42 School Silicon Valley
